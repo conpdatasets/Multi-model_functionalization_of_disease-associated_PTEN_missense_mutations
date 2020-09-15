@@ -1,0 +1,124 @@
+{
+    "identifier": {
+        "identifier": "https://doi.org/10.5683/SP2/DQOKPB",
+        "identifierSource": "DOI"
+    },
+    "title": "Multi-model functionalization of disease-associated PTEN missense mutations identifies multiple molecular mechanisms underlying protein dysfunctiob",
+    "creators": [
+        {
+            "name": "Pavlidis, Paul"
+        }
+    ],
+    "description": "Supporting data for "Multi-model functionalization of disease-associated PTEN missense mutations identifies multiple molecular mechanisms underlying protein dysfunction" (2020-02-12)",
+    "version": "1.0",
+    "licenses": [
+        {
+            "name": "CC-BY-4.0"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "ASD"
+        },
+        {
+            "value": "functional variomics"
+        },
+        {
+            "value": "missense mutations"
+        },
+        {
+            "value": "PTEN gene"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "zip"
+            ],
+            "size": 1.57,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/DQOKPB",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": ""
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "University of British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Vancouver"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "British Columbia"
+                }
+            ]
+        },
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "3"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "medicine"
+        },
+        {
+            "value": "health and life sciences"
+        },
+        {
+            "value": "computer and information science"
+        }
+    ]
+}
