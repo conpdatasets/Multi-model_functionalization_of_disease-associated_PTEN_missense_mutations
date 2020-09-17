@@ -114,14 +114,6 @@
     ],
     "extraProperties": [
         {
-            "category": "logo",
-            "values": [
-                {
-                    "value": ""
-                }
-            ]
-        },
-        {
             "category": "origin_institution",
             "values": [
                 {
