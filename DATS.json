@@ -154,6 +154,14 @@
             ]
         },
         {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "0"
+                }
+            ]
+        },
+        {
             "category": "files",
             "values": [
                 {
