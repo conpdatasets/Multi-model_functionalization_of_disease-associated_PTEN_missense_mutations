@@ -73,6 +73,10 @@
     "version": "1.0",
     "licenses": [
         {
+            "identifier": {
+                "identifier": "ilx_0102627",
+                "identifierSource":"http://uri.interlex.org/ilx_0102627"
+            },
             "name": "CC0"
         }
     ],
