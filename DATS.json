@@ -85,13 +85,21 @@
             "value": "canadian-open-neuroscience-platform"
         },
         {
-            "value": "ASD"
-        },
+			"information": {
+                "identifier": {
+                    "identifier": "ilx_0755029",
+                    "identifierSource":"http://uri.interlex.org/base/ilx_0755029"
+                },
+				{
+					"value": "ASD"
+				}
+			}
+		}
         {
             "value": "functional variomics"
         },
         {
-            "value": "missense mutations"
+            "value": "missense mutation"
         },
         {
             "value": "PTEN gene"
