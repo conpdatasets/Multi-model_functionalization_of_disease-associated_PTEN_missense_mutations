@@ -177,11 +177,10 @@
     ],
     "types": [
         {
-            "identifier": {
-                "identifier": "ilx_0106723",
-                "identifierSource":"http://uri.interlex.org/ilx_0106723"
-            },
-            "value": "medicine"
+            "information": {
+                "value": "medicine",
+                "valueIRI":"http://uri.interlex.org/ilx_0106723"
+            }
         }
     ]
 }
